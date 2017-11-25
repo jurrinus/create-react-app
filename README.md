@@ -9,7 +9,10 @@ Create React App works on macOS, Windows, and Linux.<br>
 If something doesn’t work, please [file an issue](https://github.com/facebookincubator/create-react-app/issues/new).
 
 ## Quick Overview
-
+This repo differs from the regular create-react-app repo. I have integrated the 
+react-boilerplate repo because: 1. the create-react-app repo was developed by Facebook
+to allow user to upgrade as Facebook upgrades and 2. the react-bolierplate 
+has some wvery interesting patterns that you cannot fine in the create-react-app.
 ```sh
 npm install -g create-react-app
 
